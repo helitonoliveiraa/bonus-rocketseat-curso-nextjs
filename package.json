@@ -9,14 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@prismicio/client": "^5.1.0",
     "@types/styled-components": "^5.1.11",
     "next": "11.0.1",
+    "prismic-dom": "^2.2.5",
+    "prismic-javascript": "^3.0.2",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "styled-components": "^5.3.0"
   },
   "devDependencies": {
     "@types/node": "^16.3.1",
+    "@types/prismic-dom": "^2.1.1",
     "@types/react": "^17.0.14",
     "babel-plugin-styled-components": "^1.13.2",
     "eslint": "7.30.0",
